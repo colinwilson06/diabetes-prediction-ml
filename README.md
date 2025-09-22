@@ -69,20 +69,20 @@ Diabetes_Prediction_Machine_Learning/
   [Boxplot HbA1c](assets/screenshots/09_boxplot_hba1c.png)  
 
 **Detected Outliers**
-![Outliers Data](assets/screenshots/10_outliers_data.png)
+[Outliers Data](assets/screenshots/10_outliers_detected.png)
 
 **After Deleting Outliers**
-![After Delete Outliers](assets/screenshots/11_after_delete_outliers.png)
+[After Delete Outliers](assets/screenshots/11_after_outlier_removal.png)
 
 ---
 
 ## 📈 Correlation Analysis
 
 **Correlation with Target (Diabetes)**
-![Correlation With Target](assets/screenshots/12_correlation_with_target.png)
+[Correlation With Target](assets/screenshots/12_correlation_with_target.png)
 
 **Correlation Matrix**
-![Correlation Matrix](assets/screenshots/13_correlation_matrix.png)
+[Correlation Matrix](assets/screenshots/13_correlation_matrix.png)
 
 **Heatmap**
 ![Correlation Heatmap](assets/screenshots/14_correlation_heatmap.png)
@@ -90,14 +90,14 @@ Diabetes_Prediction_Machine_Learning/
 ---
 
 ## ⚡ Data Resampling (SMOTE)
-![SMOTE](assets/screenshots/15_resample_smote.png)
+![SMOTE](assets/screenshots/15_smote_resampling.png)
 
 ---
 
 ## 🤖 Model Training & Evaluation
 
 **Logistic Regression Model**
-![Model Logistic Regression](assets/screenshots/16_model_logistic_regression.png)
+![Model Logistic Regression](assets/screenshots/16_logistic_regression_model.png)
 
 **Classification Report**
 ![Classification Report](assets/screenshots/17_classification_report.png)
