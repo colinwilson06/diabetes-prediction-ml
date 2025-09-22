@@ -3,7 +3,7 @@ This project builds a machine learning model to predict whether a patient has di
 The workflow includes data preprocessing, exploratory data analysis (EDA), handling imbalance using SMOTE, training Logistic Regression, and evaluating the model.
 
 ## 📂 Project Structure
-
+```bash
 Diabetes_Prediction_Machine_Learning/
 │── assets/
 │ └── screenshots/ # All analysis & results screenshots
@@ -15,6 +15,7 @@ Diabetes_Prediction_Machine_Learning/
 │ └── Diabetes_Logistic2.ipynb
 │
 └── README.md # Project documentation
+```
 
 ## 📊 Dataset
 - Source: Kaggle – Diabetes Dataset
