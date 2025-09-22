@@ -14,8 +14,7 @@ Diabetes_Prediction_Machine_Learning/
 │── src/ # Source code (Jupyter Notebook)
 │ └── Diabetes_Logistic2.ipynb
 │
-│── README.md # Project documentation
-
+└── README.md # Project documentation
 
 ## 📊 Dataset
 - Source: Kaggle – Diabetes Dataset
