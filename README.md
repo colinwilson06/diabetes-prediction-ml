@@ -38,19 +38,19 @@ Diabetes_Prediction_Machine_Learning/
 ## 📊 Dataset Overview
 
 **Head of Dataset**
-![Head](assets/screenshots/01_df_head.png)
+[Head](assets/screenshots/01_df_head.png)
 
 **Info**
-![Info](assets/screenshots/02_df_info.png)
+[Info](assets/screenshots/02_df_info.png)
 
 **Data Types**
-![Dtypes](assets/screenshots/04_df_dtypes.png)
+[Dtypes](assets/screenshots/04_df_dtypes.png)
 
 **Describe**
-![Describe](assets/screenshots/03_df_describe.png)
+[Describe](assets/screenshots/03_df_describe.png)
 
 **Missing Values**
-![Missing Values](assets/screenshots/05_missing_values.png)
+[Missing Values](assets/screenshots/05_missing_values.png)
 
 ---
 
