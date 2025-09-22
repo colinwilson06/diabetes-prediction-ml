@@ -124,8 +124,10 @@ Diabetes_Prediction_Machine_Learning/
 - **AUC (Area Under Curve)**: 0.988
 
 - **Confusion Matrix**:
+ ```bash
  [[16664   775]   → True Negatives / False Positives
  [ 1323 16304]]   → False Negatives / True Positives
+ ```
 
 - **Interpretation**:
   - The model achieved high accuracy (94%) with a balanced performance across both classes.
