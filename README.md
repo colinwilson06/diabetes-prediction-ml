@@ -58,15 +58,15 @@ Diabetes_Prediction_Machine_Learning/
 
 **Histogram Distribution**
 - Age  
-  ![Histogram Age](assets/screenshots/06_histogram_age.png)  
+  [Histogram Age](assets/screenshots/06_histogram_age.png)  
 - Blood Glucose Level  
-  ![Histogram Glucose](assets/screenshots/07_histogram_blood_glucose.png)  
+  [Histogram Glucose](assets/screenshots/07_histogram_blood_glucose.png)  
 
 **Boxplot Outliers**
 - BMI  
-  ![Boxplot BMI](assets/screenshots/08_boxplot_bmi.png)  
+  [Boxplot BMI](assets/screenshots/08_boxplot_bmi.png)  
 - HbA1c Level  
-  ![Boxplot HbA1c](assets/screenshots/09_boxplot_hba1c.png)  
+  [Boxplot HbA1c](assets/screenshots/09_boxplot_hba1c.png)  
 
 **Detected Outliers**
 ![Outliers Data](assets/screenshots/10_outliers_data.png)
